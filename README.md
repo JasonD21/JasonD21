@@ -14,6 +14,7 @@ I'm the technical co-founder of **Meridian Worx**, where I design, build, and ru
 - **Quality:** 53 automated tests (xUnit + WebApplicationFactory) and CI/CD with GitHub Actions
 
 > Source is private (commercial product) — I'm happy to walk through the architecture and code in an interview.
+> 📖 [Full case study — architecture and engineering decisions →](https://github.com/JasonD21/clearops-case-study)
 
 ## 🚀 Recently shipped
 
