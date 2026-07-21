@@ -8,8 +8,8 @@ I'm the technical co-founder of **Meridian Worx**, where I design, build, and ru
 
 **[ClearOps](https://clearops.pages.dev)** — a production SaaS platform where I own the entire technical stack:
 
-- **Frontend:** React 19 + TypeScript (strict), Vite, TanStack Query, React Hook Form + Zod, Tailwind CSS v4 — deployed on Cloudflare Pages
-- **Backend:** ASP.NET Core (.NET 9) Web API in a three-project Clean Architecture, EF Core 9 + PostgreSQL, ASP.NET Identity with short-lived JWTs and rotating HttpOnly refresh cookies, SignalR for live updates — deployed on Railway via Docker
+- **Frontend:** React + TypeScript (strict), Vite, TanStack Query, React Hook Form + Zod, Tailwind CSS v4 — deployed on Cloudflare Pages
+- **Backend:** ASP.NET Core (.NET) Web API in a three-project Clean Architecture, EF Core + PostgreSQL, ASP.NET Identity with short-lived JWTs and rotating HttpOnly refresh cookies, SignalR for live updates — deployed on Railway via Docker
 - **Also in the mix:** Cloudflare R2 object storage, server-side PDF watermarking, web push notifications, PayFast payments, Serilog + Sentry
 - **Quality:** 53 automated tests (xUnit + WebApplicationFactory) and CI/CD with GitHub Actions
 
